@@ -3,7 +3,7 @@ An efficient implementation of Huffman algorithm
 
 *Users can compress and decompress any file type .
 
-*users can choose N bytes to be grouped instead of only one byte 
+*Users can choose N bytes to be grouped instead of only one byte 
 so if we have many frequent repeated contacted bytes the compression will
 be more efficient in case of speed and encoded file size.
 
